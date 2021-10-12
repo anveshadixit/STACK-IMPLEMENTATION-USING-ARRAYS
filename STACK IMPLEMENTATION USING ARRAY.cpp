@@ -29,11 +29,11 @@ switch(ch)
 	case 3: peek();
 	        break;
 	case 4: display();
-            break;
+          break;
 	case 5: i=0;
-            break;
+          break;
     default:cout<<"Wrong Choice!!!!"<<endl;
-            break;
+          break;
 }
 }
 return 0; 
